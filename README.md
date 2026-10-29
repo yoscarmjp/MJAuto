@@ -1,4 +1,4 @@
-# 🚗 MJAuto
+# MJAuto
 
 > A modern automotive dealership web application built with React, TypeScript, and Vite.
 
